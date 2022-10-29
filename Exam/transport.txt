@@ -1,0 +1,13 @@
+A,B,10,Tram
+B,C,5,Metro
+A,D,15,Bus
+D,B,10,Tram
+C,D,2,Metro
+B,D,2,Tram
+C,A,10,Bus
+C,A,5,Metro
+D,C,2400,Horse
+A,B,5,Tram
+B,C,3,Metro
+B,C,15,Tram
+B,C,2,Boat
